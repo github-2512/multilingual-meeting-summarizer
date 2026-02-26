@@ -19,3 +19,14 @@ The system follows a four-stage pipeline as detailed in the methodology section:
    ```bash
    git clone [https://github.com/github-2512/multilingual-meeting-summarizer.git](https://github.com/github-2512/multilingual-meeting-summarizer.git)
    cd multilingual-meeting-summarizer
+## System Architecture Diagram
+<img width="383" height="522" alt="image" src="https://github.com/user-attachments/assets/af2a32a3-d511-45ee-bb36-a384d3eb2532" />
+ 
+## The User Interface (Full View)
+<img width="1743" height="779" alt="image" src="https://github.com/user-attachments/assets/4b12d647-ab41-403c-ad24-a8c898b41351" />
+Figure 2. High-fidelity Gradio interface illustrating the simultaneous generation of refined transcripts and structured summaries.
+
+## Structured Summary Sample
+<img width="1901" height="918" alt="image" src="https://github.com/user-attachments/assets/72abffe9-d594-4f95-b60e-e5d755ba2d59" />
+
+
